@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+Rick Reinhard
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had us create a photo gallery that uses arrows to navigate through the pictures.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rar15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to make two buttons that toggle through a photo gallery.
+2. In this lesson I learned what a Browser object model (BOM) or client-side object model is.
+3. I learned the getElementById() function returns the first elememt in a document with a matching id attribute
